@@ -1,0 +1,7 @@
+{
+  "seeds": [
+    "s8f.org"
+  ],
+  "is_server": false,
+  "bind_port": 9020
+}
